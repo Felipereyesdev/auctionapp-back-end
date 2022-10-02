@@ -1,11 +1,30 @@
 [
     {
       "auction_id": "22-0",
-      "address": "5 north st wilkesbarre pa",
+      "address": "7 north st wilkesbarre pa",
       "owner": "marcos",
       "debt": "no tiene",
       "rating": "6/10",
-      "image_url": "https://i.postimg.cc/K8mvdxg8/Attachweapontoback.png"
+      "image_url": "https://i.postimg.cc/K8mvdxg8/Attachweapontoback.png",
+      "status": "no status"
+    },
+    {
+      "auction_id": "22-0",
+      "address": "5 north st wilkesbarre pa",
+      "owner": "marcos",
+      "debt": "no tiene",
+      "rating": "5/10",
+      "image_url": "https://i.postimg.cc/K8mvdxg8/Attachweapontoback.png",
+      "status": "no status"
+    },
+    {
+      "auction_id": "22-0",
+      "address": "8 north st wilkesbarre pa",
+      "owner": "marcos",
+      "debt": "no tiene",
+      "rating": "10/10",
+      "image_url": "https://i.postimg.cc/K8mvdxg8/Attachweapontoback.png",
+      "status": "no status"
     }
     
     
