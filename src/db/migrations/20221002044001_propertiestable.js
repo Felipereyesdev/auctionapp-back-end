@@ -7,7 +7,7 @@ exports.up = function (knex) {
          table.string("debt");
          table.string("rating");
          table.string("image_url");
-         table.string("status");
+         table.string("status").notNullable().defaultTo('no status')
         table.timestamps(true, true);
     });
   };
